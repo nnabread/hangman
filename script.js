@@ -7,7 +7,7 @@ console.clear();
 ******/
 class HangmanWithoutTheMan {
     constructor() {
-        this.words = ["foobar", "beer", "tequila", "whisky", "dope", "blunt", "donut", "cheesecake", "sausage", "oktoberfest"];
+        this.words = ["befortush"];
         this.MAX_FAIL_COUNT = 10;
         this.isGameActive = true;
         this.gameStateEl = document.querySelector('.game-state');
